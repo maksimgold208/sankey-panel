@@ -1,10 +1,7 @@
 # sankey-panel
-Sankey Diagram panel for Grafana
+Sankey Diagram panel
 
 ![](./src/img/sankey_diagram_logo_large.png)
-
-## Acknowledgements
-This plugin development is inspired by [Grafana pie chart](https://github.com/grafana/piechart-panel). I have used this code as a base-line to develop this plugin
 
 The Sankey diagram has been created using the [Google Chart](https://developers.google.com/chart/interactive/docs/gallery/sankey)
 
