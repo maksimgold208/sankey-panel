@@ -23,7 +23,7 @@ It is also possible to clone this repo directly into your plugins directory.
 Afterwards restart grafana-server and the plugin should be automatically detected and used.
 
 ```
-git clone https://github.com/kumaravel29/sankey-panel.git
+git clone https://github.com/maksimgold208/sankey-panel.git
 sudo service grafana-server restart
 ```
 
